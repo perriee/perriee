@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferry Febriansyah</h1>
 <h3 align="center">Frontend Explorer on a Journey</h3>
 
-- 🧑‍🎓 I’m currently study on **Amikom University Of Yogyakarta - Bachelor of Information SystemSystem**
+- 🧑‍🎓 I’m currently study on **Amikom University of Yogyakarta - Bachelor of Information System**
 
 - 🌱 I’m currently learning **ReactJS, Laravel, and TailwindCSS**
 
