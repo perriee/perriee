@@ -3,7 +3,7 @@
 
 - 🧑‍🎓 I’m currently studying at **Amikom University of Yogyakarta - Bachelor of Information System**
 
-- 🌱 I’m currently learning **ReactJS, Laravel, and TailwindCSS**
+- 🌱 I’m currently learning **ReactJS, Laravel, ExpressJS, and TailwindCSS**
 
 - 📫 How to reach me **perriebenhard@gmail.com**
 
